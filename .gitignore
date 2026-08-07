@@ -1,0 +1,12 @@
+__pycache__
+*.egg-info
+.eggs
+.venv
+
+# Pre-trained models and local test data are not tracked.
+pretrained/*
+!pretrained/.gitkeep
+test_wav/
+*.pkl
+*.wav
+*.joblib
