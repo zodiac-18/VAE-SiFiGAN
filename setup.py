@@ -26,6 +26,8 @@ setup(
         "pyworld>=0.3.0",
         "soundfile>=0.10.2",
         "scipy>=1.6.0",
+        # pyworld still imports pkg_resources, which setuptools 81+ no longer ships.
+        "setuptools<81",
     ],
     entry_points={
         "console_scripts": [

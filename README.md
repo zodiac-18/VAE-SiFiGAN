@@ -16,7 +16,7 @@ $ cd VAE-SiFiGAN
 $ pip install -e .
 ```
 
-Python 3.8 or later and PyTorch 1.13 or later are required. The remaining dependencies (`librosa`, `pyworld`, `soundfile`, `scipy` and `numpy`) are installed automatically.
+Python 3.8 or later and PyTorch 1.13 or later are required. The remaining dependencies (`librosa`, `pyworld`, `soundfile`, `scipy`, `numpy` and `setuptools<81`) are installed automatically. The `setuptools` pin is required because `pyworld` still depends on `pkg_resources`.
 
 ## Folder architecture
 
