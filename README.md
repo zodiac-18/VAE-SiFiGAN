@@ -6,7 +6,8 @@
 [![Release](https://img.shields.io/github/v/release/zodiac-18/VAE-SiFiGAN.svg)](https://github.com/zodiac-18/VAE-SiFiGAN/releases/latest)
 
 This repo provides the inference code and a pretrained model of VAE-SiFiGAN.
-For more information, please see our [DEMO](https://zodiac-18.github.io/eusipco2026_demo/).
+
+For more information, please see our [DEMO](https://zodiac-18.github.io/eusipco2026_demo/) and the papers cited below.
 
 ## Environment setup
 
