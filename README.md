@@ -1,5 +1,10 @@
 # VAE-SiFiGAN
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-ee4c2c.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![License](https://img.shields.io/github/license/zodiac-18/VAE-SiFiGAN.svg)](./LICENSE)
+[![Release](https://img.shields.io/github/v/release/zodiac-18/VAE-SiFiGAN.svg)](https://github.com/zodiac-18/VAE-SiFiGAN/releases/latest)
+
 This repo provides the inference code and a pretrained model of VAE-SiFiGAN.
 For more information, please see our papers cited below.
 
